@@ -33,7 +33,7 @@
   
   /* Create two columns that float next to eachother */
   .column {
-    float: left;
+    float: left ;
     width: 50%;
     margin-top: 6px;
     padding: 20px;
